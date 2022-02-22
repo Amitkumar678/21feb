@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: antiquewhite;
+    justify-content: center;
+
+}
+
+
+.box{
+    width: 300px;
+    height: 180px;
+    background-color: aqua;
+    margin: 5px;
+}
+.demo{
+    color: red;
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+.design{
+    width: 80px;
+    height: 70px;
+    margin: 20px;
+    padding: 18px;
+    background-color: khaki;
+}
